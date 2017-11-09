@@ -1,0 +1,11 @@
+{
+  "name": "dreamsicle",
+  "developer": "Emily Lau",
+  "description": "An orange theme for Pext.",
+  "homepage": "https://pext.hackerchick.me/",
+  "license": "CC-BY-3.0",
+  "git_urls": [
+    "https://github.com/Pext/pext_theme_dreamsicle",
+    "https://notabug.org/Pext/pext_theme_dreamsicle"
+  ]
+}
